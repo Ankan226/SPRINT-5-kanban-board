@@ -1,5 +1,3 @@
-# Prompts.md — AI Usage Log
-
 This file documents how AI assistance (Claude) was used while building the
 Sprint 05 Kanban Task Board, per the submission requirements.
 
@@ -68,9 +66,3 @@ added it to `vite.config.js`, and replaced the three `@tailwind` directives
 in `index.css` with a single `@import "tailwindcss"`.
 
 ---
-
-## Notes
-
-All code was reviewed and understood before committing — architecture
-decisions (state shape, component boundaries, event handlers) were made
-by me based on the AI's explanations, not pasted blindly.
