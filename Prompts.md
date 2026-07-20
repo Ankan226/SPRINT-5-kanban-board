@@ -1,8 +1,3 @@
-This file documents how AI assistance (Claude) was used while building the
-Sprint 05 Kanban Task Board, per the submission requirements.
-
----
-
 ## 1. Project Architecture
 
 **Prompt:** Asked how to structure a React + Vite Kanban board using
