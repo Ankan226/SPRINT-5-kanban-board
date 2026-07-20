@@ -5,6 +5,7 @@ A Trello-style task management board built with **React**, **Vite**, and
 editing, and localStorage persistence.
 
  **Live Demo:**  https://sprint-5-kanban-board.vercel.app/
+ 
  **GitHub Repo:** https://github.com/Ankan226/SPRINT-5-kanban-board
 
 ---
@@ -33,23 +34,29 @@ editing, and localStorage persistence.
 ## Screenshots
 
 ### Board Overview
-![Board overview](./screenshots/board-overview.png)
+<img width="1626" height="891" alt="image" src="https://github.com/user-attachments/assets/c5f27413-6aae-438a-bebf-f7e60b0cbb54" />
+
 
 ### Adding a Task
-![Add task](./screenshots/add-task.png)
+<img width="1642" height="860" alt="image" src="https://github.com/user-attachments/assets/89b701d0-5317-4e7d-ab7d-e8c99a6953ec" />
+
 
 ### Drag and Drop
-![Drag and drop](./screenshots/drag-drop.png)
+<img width="1057" height="280" alt="image" src="https://github.com/user-attachments/assets/0e4d84da-7ddf-4791-97b2-75859cce8a0a" />
+
 
 ### Inline Editing
-![Inline editing](./screenshots/inline-edit.png)
+<img width="1617" height="480" alt="image" src="https://github.com/user-attachments/assets/2e6ebe04-e48f-4f08-9143-922b26005d32" />
+
 
 ### Search Filter
-![Search filter](./screenshots/search-filter.png)
+<img width="1642" height="870" alt="image" src="https://github.com/user-attachments/assets/1ecb7156-efa8-4d49-8681-de2ddbaebbcd" />
+
 
 ---
 
 ## Project Structure
+
 kanban-board/
 ├── src/
 │   ├── components/
@@ -63,6 +70,7 @@ kanban-board/
 ├── vite.config.js
 ├── package.json
 └── Prompts.md
+
 
 ---
 
